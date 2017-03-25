@@ -1,0 +1,63 @@
+
+.alpha h4{
+	color: black;
+}
+ 
+.beta p {
+	border: solid;
+	color: white;
+	width: 470px;
+    position: relative;
+    left: 400px;
+    background-color: red;
+}
+.delta p {
+	border: solid;
+	color: green;
+	width: 470px;
+	position: relative;
+	left: 250px;
+}
+.echo p{
+	border: solid;
+	color: white;
+	width: 20px;
+	position: relative;
+	left: 725px;
+	top: 850px;
+	background-color: blue;
+	
+}
+.fox p{
+	border: solid;
+	color: white;
+	width: 250px;
+	position: relative;
+	left: 720px;
+	top: 950px;
+	background-color: blue;
+	
+}
+.charley p{
+    border: solid;
+	color: white;
+	width: 250px;
+	position: relative;
+	left: 720px;
+	bottom: 180px;
+	background-color: blue;	
+}
+.gulf p{
+	border: solid;
+	color: white;
+	width: 110px;
+	position: relative;
+	left: 450px;
+     top: 800px;
+	background-color: red;
+}
+.submatter p{
+    width: 620px;
+    margin: 0 auto;
+    textl-align: center;
+  }

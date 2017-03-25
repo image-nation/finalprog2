@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  background: white; 
+  background-image: url('http://labs.jensimmons.com/2016/examples/images/transparentbackground.svg');
+}
+.alpha {
+    position: relative;
+    top:150px;
+    right: 85px;
+    padding-left: 10px;
+}
+.alpha h4{
+    border: solid;
+    position: relative:
+    top: 450px;
+    hight: 200px
+    width: 450px;
+    left: 10px;
+    color:black;
+    font-weight: bold;
+    text-align: justify;
+    background-color: white;
+    text-align: center;
+
+}
+ .flg1{
+    left: 900px;
+    border:solid;
+    color: green;
+    width: 74px;
+    position: relative;
+    top: 10px;
+    position: fixed;
+ }	 
+ .flg2{
+     float: left;
+     border: solid;
+     color: red;
+ }
+
+ .submatter{
+     border: solid;
+     position: relative;
+     top:200px;
+     hight:400px;
+     width: 620px;
+     margin: 0 auto;
+     background-color: white;
+ }
+
+ .submatter span {
+     color: black;
+ }
+ .video {
+  border: solid;
+  color: black;
+  position: relative;
+  width: 250px;
+  hight: 300px;
+  left: 300px;
+  top: 250px;
+  background-color: blue;
+ }
+ 
