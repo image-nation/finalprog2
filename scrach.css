@@ -1,4 +1,8 @@
 
+.alpha{
+	position: fixed;
+}
+
 .alpha h4{
 	color: black;
 }
@@ -21,7 +25,7 @@
 .echo p{
 	border: solid;
 	color: white;
-	width: 20px;
+	width: 250px;
 	position: relative;
 	left: 725px;
 	top: 850px;
